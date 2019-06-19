@@ -1,0 +1,24 @@
+{
+  "name": "node-egg",
+  "version": "1.0.0",
+  "description": "学习egg框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HRDVV/node-egg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HRDVV/node-egg/issues"
+  },
+  "homepage": "https://github.com/HRDVV/node-egg#readme",
+  "dependencies": {
+    "globby": "^9.2.0",
+    "koa": "^2.7.0"
+  }
+}
