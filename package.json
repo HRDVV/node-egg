@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/HRDVV/node-egg#readme",
   "dependencies": {
-    "globby": "^9.2.0",
+    "globby": "^13.1.4",
     "koa": "^2.7.0"
   }
 }
